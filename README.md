@@ -10,14 +10,6 @@ Labs from COSC 102: Intro to Computer Science at UTK
 - Lab 4 - Utilize stringstream to print out the string the user inputs, count the number of characters, and print the input without whitespace.
 
 - Lab 5 - The shopping cart simulator program stores, manipulates, and prints items with names, descriptions, prices, and quantity.
-		   It continually asks the user to choose from a variety of actions:
-			-Add item
-			-Delete item
-			-Change item quantity
-			-Print all item descriptions in shopping cart
-			-Print all item costs and total cost in shopping cart
-			-Quit
-			Entering Ctrl-D or 'q' will exit the program.
 
 - Lab 6 - Create a vector class manually using points and dynamic memory
 
